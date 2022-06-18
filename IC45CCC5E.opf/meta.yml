@@ -1,0 +1,36 @@
+id: IC45CCC5E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:10:44.257949'
+last_modified: '2022-06-19T01:10:44.257962'
+parser: null
+source_metadata:
+  title: Hagiography of Sa skya lo tstshā ba Jam pai rdo rje (1485–1533)
+  author: jam mgon a mes zhabs/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-05-22); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:bsam grub/ (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:bsam grub/
+  text_witnesses: https://sakyaresearch.org/sources/2594
+  bases:
+    679b:
+      title: Hagiography of Sa skya lo tstshā ba Jam pai rdo rje (1485–1533)
+      order: 1
+      base_file: 679b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
